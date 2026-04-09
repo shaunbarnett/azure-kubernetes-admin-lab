@@ -19,7 +19,7 @@ The focus of this project is Azure infrastructure administration rather than app
 
 ## Architecture Diagram
 
-<img src="diagrams/aks-architecture.png" alt="AKS Architecture Diagram">
+![AKS Architecture Diagram](https://github.com/shaunbarnett/azure-kubernetes-admin-lab/blob/main/diagrams/aks-architecture.png?raw=true)
 
 ---
 
