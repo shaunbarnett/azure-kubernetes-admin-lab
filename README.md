@@ -19,7 +19,7 @@ The focus of this project is Azure infrastructure administration rather than app
 
 ## Architecture Diagram
 
-![AKS Architecture Diagram](diagrams/aks-architecture.png)
+diagrams/aks-architecture.png
 
 ---
 
