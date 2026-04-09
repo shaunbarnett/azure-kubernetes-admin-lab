@@ -184,25 +184,25 @@ Cost governance is a core Azure Administrator responsibility.
 ## Screenshots
 
 ### AKS Cluster Configuration
-screenshots/aks-overview.png
+[screenshots/aks-overview.png](screenshots/aks-overview.png)
 
 ### AKS Cluster Health and Workload Overview
-screenshots/aks_cluster_health_overview.png
+[screenshots/aks_cluster_health_overview.png](screenshots/aks_cluster_health_overview.png)
 
 ### AKS Monitoring and Metrics
-screenshots/aks_monitoring_metrics.png
+[screenshots/aks_monitoring_metrics.png](screenshots/aks_monitoring_metrics.png)
 
 ### Pod Logs and Validation (kubectl)
-screenshots/aks_pod_logs.png
+[screenshots/aks_pod_logs.png](screenshots/aks_pod_logs.png)
 
 ### Workload Validation via kubectl
-screenshots/kubectl-workload-validation.png
+[screenshots/kubectl-workload-validation.png](screenshots/kubectl-workload-validation.png)
 
 ### Public Application Access (NGINX)
-screenshots/nginx-loadbalancer-access.png
+[screenshots/nginx-loadbalancer-access.png](screenshots/nginx-loadbalancer-access.png)
 
 ### Workload Cleanup and Cost Control
-screenshots/cleanup.png
+[screenshots/cleanup.png](screenshots/cleanup.png)
 
 
 ---
