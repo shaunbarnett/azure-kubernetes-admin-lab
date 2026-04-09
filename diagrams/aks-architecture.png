@@ -1,0 +1,15 @@
+[ User / Browser ]
+        |
+        v
+[ Azure Load Balancer ]
+        |
+        v
+[ AKS Cluster ]
+        |
+        v
+[ System Node Pool ]
+        |
+        v
+[ NGINX Pod ]
+        |
+        +-----> [ Azure Monitor / Log Analytics ]
